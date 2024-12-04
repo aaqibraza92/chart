@@ -10,3 +10,11 @@ main {
   border: none;
   outline: none;
 }
+.clearbtn {
+  position: absolute;
+  right: 30px;
+  width: 20px;
+  background: no-repeat;
+  border: none;
+  top: 12px;
+}
